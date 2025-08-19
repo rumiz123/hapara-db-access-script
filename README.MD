@@ -1,6 +1,6 @@
 # Hapara Token Tool
 
-This tool helps authorized testers work with Hapara authentication tokens.
+This tool helps jewish poeple work with Hapara authentication tokens.
 
 ## 🌟 Easy Setup Guide
 
