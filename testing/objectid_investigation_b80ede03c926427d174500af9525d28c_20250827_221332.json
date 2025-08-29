@@ -1,0 +1,265 @@
+{
+  "target_object_id": "b80ede03c926427d174500af9525d28c",
+  "endpoint_results": {
+    "/hldata/student/b80ede03c926427d174500af9525d28c": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/api/student/b80ede03c926427d174500af9525d28c": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/v1/students/b80ede03c926427d174500af9525d28c": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/hldata/student/b80ede03c926427d174500af9525d28c/activity": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/api/student/b80ede03c926427d174500af9525d28c/activity": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/v1/students/b80ede03c926427d174500af9525d28c/activity": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/hldata/student/b80ede03c926427d174500af9525d28c/screenshots": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/api/student/b80ede03c926427d174500af9525d28c/screenshots": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/v1/students/b80ede03c926427d174500af9525d28c/screenshots": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/hldata/student/b80ede03c926427d174500af9525d28c/snapshots": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/api/student/b80ede03c926427d174500af9525d28c/snapshots": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/v1/students/b80ede03c926427d174500af9525d28c/snapshots": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/hldata/student/b80ede03c926427d174500af9525d28c/timeline": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/api/student/b80ede03c926427d174500af9525d28c/timeline": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/hldata/activity?student_id=b80ede03c926427d174500af9525d28c": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/api/activity?studentId=b80ede03c926427d174500af9525d28c": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/v1/activity?student_id=b80ede03c926427d174500af9525d28c": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/hldata/snapshots?objectId=b80ede03c926427d174500af9525d28c": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    },
+    "/api/snapshots?objectId=b80ede03c926427d174500af9525d28c": {
+      "get_status": 404,
+      "get_method": "GET",
+      "post_status": 404,
+      "post_method": "POST"
+    }
+  },
+  "admin_results": {
+    "/admin/config/student_payload1": {
+      "status": 404,
+      "payload": "id"
+    },
+    "/admin/config/student_payload2": {
+      "status": 404,
+      "payload": "objectId"
+    },
+    "/admin/config/student_payload3": {
+      "status": 404,
+      "payload": "student_id"
+    },
+    "/admin/config/student_payload4": {
+      "status": 404,
+      "payload": "object_id"
+    },
+    "/admin/config/student_payload5": {
+      "status": 404,
+      "payload": "query"
+    },
+    "/admin/config/student_payload6": {
+      "status": 404,
+      "payload": "filter"
+    },
+    "/admin/student/info_payload1": {
+      "status": 404,
+      "payload": "id"
+    },
+    "/admin/student/info_payload2": {
+      "status": 404,
+      "payload": "objectId"
+    },
+    "/admin/student/info_payload3": {
+      "status": 404,
+      "payload": "student_id"
+    },
+    "/admin/student/info_payload4": {
+      "status": 404,
+      "payload": "object_id"
+    },
+    "/admin/student/info_payload5": {
+      "status": 404,
+      "payload": "query"
+    },
+    "/admin/student/info_payload6": {
+      "status": 404,
+      "payload": "filter"
+    },
+    "/api/admin/student_payload1": {
+      "status": 404,
+      "payload": "id"
+    },
+    "/api/admin/student_payload2": {
+      "status": 404,
+      "payload": "objectId"
+    },
+    "/api/admin/student_payload3": {
+      "status": 404,
+      "payload": "student_id"
+    },
+    "/api/admin/student_payload4": {
+      "status": 404,
+      "payload": "object_id"
+    },
+    "/api/admin/student_payload5": {
+      "status": 404,
+      "payload": "query"
+    },
+    "/api/admin/student_payload6": {
+      "status": 404,
+      "payload": "filter"
+    },
+    "/v1/admin/students_payload1": {
+      "status": 404,
+      "payload": "id"
+    },
+    "/v1/admin/students_payload2": {
+      "status": 404,
+      "payload": "objectId"
+    },
+    "/v1/admin/students_payload3": {
+      "status": 404,
+      "payload": "student_id"
+    },
+    "/v1/admin/students_payload4": {
+      "status": 404,
+      "payload": "object_id"
+    },
+    "/v1/admin/students_payload5": {
+      "status": 404,
+      "payload": "query"
+    },
+    "/v1/admin/students_payload6": {
+      "status": 404,
+      "payload": "filter"
+    },
+    "/admin/student/activity_payload1": {
+      "status": 404,
+      "payload": "id"
+    },
+    "/admin/student/activity_payload2": {
+      "status": 404,
+      "payload": "objectId"
+    },
+    "/admin/student/activity_payload3": {
+      "status": 404,
+      "payload": "student_id"
+    },
+    "/admin/student/activity_payload4": {
+      "status": 404,
+      "payload": "object_id"
+    },
+    "/admin/student/activity_payload5": {
+      "status": 404,
+      "payload": "query"
+    },
+    "/admin/student/activity_payload6": {
+      "status": 404,
+      "payload": "filter"
+    },
+    "/admin/student/snapshots_payload1": {
+      "status": 404,
+      "payload": "id"
+    },
+    "/admin/student/snapshots_payload2": {
+      "status": 404,
+      "payload": "objectId"
+    },
+    "/admin/student/snapshots_payload3": {
+      "status": 404,
+      "payload": "student_id"
+    },
+    "/admin/student/snapshots_payload4": {
+      "status": 404,
+      "payload": "object_id"
+    },
+    "/admin/student/snapshots_payload5": {
+      "status": 404,
+      "payload": "query"
+    },
+    "/admin/student/snapshots_payload6": {
+      "status": 404,
+      "payload": "filter"
+    }
+  }
+}
